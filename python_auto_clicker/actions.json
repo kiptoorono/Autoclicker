@@ -1,0 +1,14 @@
+[
+  {
+    "kind": "image_click",
+    "delay": 100,
+    "x": 0,
+    "y": 0,
+    "key": "ctrl",
+    "key_action": "press",
+    "text": "",
+    "image_path": "C:\\Users\\Rono\\Desktop\\Red-Car-master\\Red-Car-master\\python_auto_clicker\\templates\\comment_btn.png",
+    "timeout": 10,
+    "confidence": 0.8
+  }
+]
