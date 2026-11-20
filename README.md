@@ -20,7 +20,7 @@ On your screen you see `Point 1`. `Point 1` has an x coordinate and a y coordina
 
 ![image](https://user-images.githubusercontent.com/74303221/173814077-0aa88c4a-13c1-4dd5-9cb2-7b478e472c66.png)
 
-After you've clicked on the `Set Location` button, you click somewhere on your screen but NOT on the application window. If you clicked somewhere on your screen, and your application window minimized in the process, your point location should update.
+After you've clicked on the `Set Location` button, you click somewhere on your screen but NOT on the application window. If you clicked somewhere on your screen, and your application window minimized in the process, your point location should update...
 
 *I clicked at the left edge on my screen, this should keep x at zero and give y a higher value.*
 ![image](https://user-images.githubusercontent.com/74303221/173814633-1f3b74d1-1af1-4c03-81d9-615ad14918db.png)
