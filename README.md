@@ -41,7 +41,7 @@ Now you can setup multiple points.
 
 
 ### Repetitions
-Repetitions is the amount of times the entire list of points will happen.
+Repetitions is the amount of times the entire list of points will happen...
 
 ### How to Save
 In the folder there is a SaveFile.txt this is the file everything gets saved to, but also loaded from. If you want multiple saves you manually have to extract the save to another file.
